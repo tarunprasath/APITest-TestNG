@@ -1,3 +1,6 @@
+//Post request for creating new employee.
+// All the required details for employee creation is done and verified if the response status code has returned '200'
+
 package com.companyAAA;
 
 import org.testng.Assert;

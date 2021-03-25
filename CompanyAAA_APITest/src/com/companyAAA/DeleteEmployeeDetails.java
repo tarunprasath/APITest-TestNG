@@ -1,3 +1,6 @@
+//Delete Employee details by providing the employee ID
+//Employee ID is provided in the code, but it can be passed from Excel or DB
+
 package com.companyAAA;
 
 import org.testng.Assert;
